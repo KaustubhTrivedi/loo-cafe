@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Logo from "../Assets/Images/loocafe-logo.png";
 import SearchIcon from "@mui/icons-material/Search";
-import LiveData from "../Components/liveData";
+import LiveData from "../Components/LiveData";
 import Map from "../Components/Map";
 import { Button, TextField } from "@mui/material";
 
