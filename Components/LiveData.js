@@ -3,7 +3,7 @@ import { Fragment } from "react";
 
 const LiveData = () => {
   const looCafeLiveData = {
-    Location: "andheri",
+    Location: "Andheri",
     urinalsMale: "8/10",
     seatsFemale: "3/5",
     seatsMale: "2/5",
